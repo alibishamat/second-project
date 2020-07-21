@@ -1,0 +1,38 @@
+.page {
+  min-width: 1100px;
+  max-width: 1600px;
+  margin: 0 auto;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+}
+
+.header {
+  height: 100vh;
+  min-height: 600px;
+  max-height: 756px;
+}
+
+.header__square-pic {
+  height: 568px;
+  width: 568px;
+  color: blue;
+}
+
+.table__cell_theme_dark {
+  width: 200px;
+  color: white;
+  margin-right: 0;
+  margin-top: 80px;
+}
+
+.logo {
+  height: 32px;
+  width: 183px; 
+  margin-top: 30px; 
+  margin-left: 64px;
+}
+
+.header__title {
+  width: 730px;
+  margin-right: 64px;
+}
+  
